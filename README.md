@@ -1,2 +1,2 @@
-# covid-19
-covid-19-visualization
+# covid-19-visualization
+Coronavirus 2019-nCoV
